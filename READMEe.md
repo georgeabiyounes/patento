@@ -1,9 +1,8 @@
 # Statement
 
-The purpose of this project is to help researchers easily access patent indicators. This is done through a number of functions 
-that calculate and fetch certain patent for a given set of publication numbers. The project uses Google Patents Public Data hosted 
-on Google Cloud Platform (GCP) by querying and wrangling data sourced from its tables. The user will need to connect to their GCP account 
-and can easily do so through the provided functions, as explained below.
+The purpose of this project is to make building patent indicators more accessible to researchers. The project provides the user with more than 30 patent indicators that can be fetched through the package functions. Patento uses Google Patents Public Data hosted on Google Cloud Platform (GCP) by querying and wrangling data sourced from its tables. 
+
+This package is part of an academic project.
 
 
 > <font color='orange'>Version 0.1: This is a development release. Some features might be changed in backward-incompatible ways.</font>
@@ -14,13 +13,6 @@ and can easily do so through the provided functions, as explained below.
 
 Please, visit our [GitBook][GBOP] for full documentation, examples and resources.   
 
-## Views and Plots
-
-
-Readers interested in the views and plots generated in the course of the Exploratory Data Analysis (`EDA/*.ipynb`) can access them on our dedicated dropbox. 
-
-
-[![alt text][db-logo]][db]
 
 
 # Installation 
@@ -29,10 +21,7 @@ Readers interested in the views and plots generated in the course of the Explora
 
 ### Git
 
-```bash
-cd destination/path
-git clone https://github.com/cverluise/openPatstat.git
-````
+
 
 ### Download
 
