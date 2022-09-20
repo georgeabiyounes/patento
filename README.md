@@ -30,7 +30,7 @@ Please, visit our [GitBook][GBOP] for full documentation, examples and resources
 ## Install the open_pastat python module
 
 ```bash
-cd path/to/open_patstat
+cd path/to/patento
 pip install -r requirements.txt
 pip install -e .
 ```
