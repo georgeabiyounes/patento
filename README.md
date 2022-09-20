@@ -4,10 +4,9 @@ The purpose of this project is to make building patent indicators more accessibl
 
 # Documentation
 
-[![alt text](https://gitlab.com/uploads/-/system/project/avatar/1058960/gitbook.png "Logo GitBook")][GBOP]
+[![alt text](https://gitlab.com/uploads/-/system/project/avatar/1058960/gitbook.png "Logo GitBook")]
 
 Available soon.
-
 
 # Installation 
 
