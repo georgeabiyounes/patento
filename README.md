@@ -10,18 +10,18 @@ Available soon.
 
 # Installation 
 
-## Clone/ Download the openPatstat repository
+## Clone/ Download the patento repository
 
 ### Git
 1. Via terminal: $git clone https://github.com/georgeabiyounes/patento.
 
 ### Download
 
-1. Go to the [Open Patstat GitHub repository][GHOP]​
+1. Go to the [Patento Github repository][GHOP]​
 2. Click `Clone` or Download (top right)
 3. Click `Download ZIP`
 
-## Install the open_pastat python module
+## Install the patento python module
 
 ```bash
 cd path/to/patento
