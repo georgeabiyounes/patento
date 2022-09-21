@@ -17,7 +17,7 @@ Available soon.
 
 ### Download
 
-1. Go to the [Patento Github repository][GHOP]​
+1. Go to the [Patento Github repository]
 2. Click `Clone` or Download (top right)
 3. Click `Download ZIP`
 
